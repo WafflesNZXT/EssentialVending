@@ -1,0 +1,11 @@
+LOGO PLACEHOLDER
+
+Please replace this file with your Essential Vending logo (logo.png).
+
+The logo should be:
+- PNG format
+- Approximately 200px wide for best quality
+- Transparent background preferred
+- Named "logo.png"
+
+The current HTML references "images/logo.png" so make sure to use that exact filename.

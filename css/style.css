@@ -615,6 +615,14 @@ section {
         grid-template-columns: 1fr;
     }
 
+    .hero {
+        padding-top: 80px; /* Add padding to account for fixed navbar */
+    }
+
+    .hero-container {
+        padding-top: 2rem; /* Additional padding for better spacing */
+    }
+
     .services-grid {
         grid-template-columns: 1fr;
     }
